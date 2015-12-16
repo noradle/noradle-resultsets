@@ -1,6 +1,6 @@
 {
   "name": "noradle-resultsets",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "description": "parse noradle sql resultsets to javascript object or JSON text",
   "main": "index.js",
   "scripts": {
