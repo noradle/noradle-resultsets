@@ -2,7 +2,7 @@
   "name": "noradle-resultsets",
   "version": "0.13.0",
   "description": "parse noradle sql resultsets to javascript object or JSON text",
-  "main": "RSParser.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
